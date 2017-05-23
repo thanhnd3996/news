@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\69da7cde7a6f24ac983cec8e01e20bc4713ce84a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\b71dd8a98b2a88a69d992909c5af27ab981651fa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\bcf903d2708815f10d98d568786d41ac6c6ed661\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\93bcf12e98110245e2ad863b837729dcf87f245d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\8da78d39e276af40af7890fcc0743a8d669b4066\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\905f126e5b0f402c6736626f597965e4839203eb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\37d493cc567cdb6e4e27237fe3d20619c8722de8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\e452e71208e1d175202fe2f32f22572740c5711d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\4382eb7ce82c6183b280fa9974e9781ae6d6c0a6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nguyen Duy Thanh\.android\build-cache\22b44fd9427cfdc64e93bb6a620611dfad9ba27a\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.nguyenduythanh.news.MainActivity
+ADDED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.nguyenduythanh.news.NewsWebView
+ADDED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml:21:9-58
+	android:name
+		ADDED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml:21:19-46
+uses-sdk
+INJECTED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\69da7cde7a6f24ac983cec8e01e20bc4713ce84a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\b71dd8a98b2a88a69d992909c5af27ab981651fa\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\bcf903d2708815f10d98d568786d41ac6c6ed661\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\93bcf12e98110245e2ad863b837729dcf87f245d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\8da78d39e276af40af7890fcc0743a8d669b4066\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\905f126e5b0f402c6736626f597965e4839203eb\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\37d493cc567cdb6e4e27237fe3d20619c8722de8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\e452e71208e1d175202fe2f32f22572740c5711d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\4382eb7ce82c6183b280fa9974e9781ae6d6c0a6\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nguyen Duy Thanh\.android\build-cache\22b44fd9427cfdc64e93bb6a620611dfad9ba27a\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\69da7cde7a6f24ac983cec8e01e20bc4713ce84a\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nguyen Duy Thanh\Documents\News\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\69da7cde7a6f24ac983cec8e01e20bc4713ce84a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\b71dd8a98b2a88a69d992909c5af27ab981651fa\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\bcf903d2708815f10d98d568786d41ac6c6ed661\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\93bcf12e98110245e2ad863b837729dcf87f245d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\8da78d39e276af40af7890fcc0743a8d669b4066\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\905f126e5b0f402c6736626f597965e4839203eb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\37d493cc567cdb6e4e27237fe3d20619c8722de8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\e452e71208e1d175202fe2f32f22572740c5711d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\4382eb7ce82c6183b280fa9974e9781ae6d6c0a6\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\69da7cde7a6f24ac983cec8e01e20bc4713ce84a\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Nguyen Duy Thanh\.android\build-cache\69da7cde7a6f24ac983cec8e01e20bc4713ce84a\output\AndroidManifest.xml:26:9-47
