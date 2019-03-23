@@ -1,2 +1,3 @@
-# news
-an Android App for reading news with RSS
+# NEWS
+## Getting started
+a RSS-reader news Android app
