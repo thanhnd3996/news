@@ -1,3 +1,4 @@
 # NEWS
 ## Getting started
-a RSS-reader news Android app
+A RSS-reader news Android app
+## Layout
